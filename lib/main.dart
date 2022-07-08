@@ -8,6 +8,7 @@ class ByteBankApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: "ByteBank - By: Caio Luppo",
       home: Scaffold(
         body: FormularioTransferencias(),
       ),
