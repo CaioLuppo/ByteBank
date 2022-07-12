@@ -1,16 +1,26 @@
-# bytebank
+# ByteBank - Alura
 
-A new Flutter project.
+O aplicativo ByteBank foi desenvolvido em Flutter, durante o curso "Flutter: criando um app".
 
-## Getting Started
+Trata-se de um aplicativo para simulação de transferências bancárias, onde o usuário pode criar uma transferência, e esta será adicionada em uma lista.
 
-This project is a starting point for a Flutter application.
+## Telas do Aplicativo:
 
-A few resources to get you started if this is your first Flutter project:
+### Lista de Transferências
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aqui, o usuário se depara (inicialmente) com uma lista vazia e um botão que o levará para a tela de criação de transferências:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img scr="GitHub/images/home_sem_nada.png" alt="Home do aplicativo">
+
+### Criação de Transferências
+
+Nesta tela, ao inserir os dados nos campos, cria-se uma transferência e a mesma é adicionada na tela inicial:
+
+<img scr="GitHub/images/criando_transf.png" alt="Criando transferência"><br>
+<img scr="GitHub/images/home_com_transf.png" alt="Transferência criada">
+
+## Considerações finais
+
+Com o curso, aprendi a realizar a criação de um aplicativo simples, aprendendo os conceitos inicias do Flutter como: Widgets, Statefull e Stateless widgets, como o código é estruturado, a classe de Widgets Material Apps - que nos permite criar rapidamente uma aplicação através de widgets bonitos e flúidos -, como extrair partes do código etc.
+
+Considero este, o início da minha jornada em desenvolvimento mobile! 😊
