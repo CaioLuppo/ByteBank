@@ -10,14 +10,14 @@ Trata-se de um aplicativo para simulação de transferências bancárias, onde o
 
 Aqui, o usuário se depara (inicialmente) com uma lista vazia e um botão que o levará para a tela de criação de transferências:
 
-<img scr="GitHub/images/home_sem_nada.png" alt="Home do aplicativo">
+<img scr="home_sem_nada.png" alt="Home do aplicativo">
 
 ### Criação de Transferências
 
 Nesta tela, ao inserir os dados nos campos, cria-se uma transferência e a mesma é adicionada na tela inicial:
 
-<img scr="GitHub/images/criando_transf.png" alt="Criando transferência"><br>
-<img scr="GitHub/images/home_com_transf.png" alt="Transferência criada">
+<img scr="criando_transf.png" alt="Criando transferência"><br>
+<img scr="home_com_transf.png" alt="Transferência criada">
 
 ## Considerações finais
 
