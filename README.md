@@ -16,7 +16,7 @@ Aqui, o usuário se depara (inicialmente) com uma lista vazia e um botão que o 
 
 Nesta tela, ao inserir os dados nos campos, cria-se uma transferência e a mesma é adicionada na tela inicial:
 
-<img src="criando_transf.png" alt="Criando transferência"><br>
+<img src="criando_transf.png" alt="Criando transferência">
 <img src="home_com_transf.png" alt="Transferência criada">
 
 ## Considerações finais
